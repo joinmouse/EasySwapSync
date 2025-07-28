@@ -6,8 +6,9 @@ import (
 	"sync"
 
 	"github.com/joinmouse/EasySwapBase/chain"
-	"github.com/joinmouse/EasySwapBaseain/chainclient"
-	"github.com/joinmouse/EasySwapBaseores/xkv"
+	"github.com/joinmouse/EasySwapBase/chain/chainclient"
+	"github.com/joinmouse/EasySwapBase/ordermanager"
+	"github.com/joinmouse/EasySwapBase/stores/xkv"
 	"github.com/pkg/errors"
 	"github.com/zeromicro/go-zero/core/stores/cache"
 	"github.com/zeromicro/go-zero/core/stores/kv"

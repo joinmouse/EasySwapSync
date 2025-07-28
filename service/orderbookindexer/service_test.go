@@ -9,8 +9,8 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	ethereumTypes "github.com/ethereum/go-ethereum/core/types"
 	"github.com/joinmouse/EasySwapBase/chain/chainclient"
-	"github.com/joinmouse/EasySwapBaseain/types"
-	"github.com/joinmouse/EasySwapBaseores/gdb"
+	"github.com/joinmouse/EasySwapBase/chain/types"
+	"github.com/joinmouse/EasySwapBase/stores/gdb"
 
 	"github.com/joinmouse/EasySwapSync/model"
 )

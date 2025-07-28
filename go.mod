@@ -5,8 +5,8 @@ go 1.21
 replace github.com/joinmouse/EasySwapBase => ../EasySwapBase
 
 require (
-	github.com/joinmouse/EasySwapBase v0.0.0-20250106031001-016480cecbd5
 	github.com/ethereum/go-ethereum v1.12.0
+	github.com/joinmouse/EasySwapBase v0.0.0-20250106031001-016480cecbd5
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/errors v0.9.1
 	github.com/shopspring/decimal v1.3.1

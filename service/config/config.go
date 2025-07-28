@@ -6,7 +6,7 @@ import (
 	"github.com/spf13/viper"
 
 	logging "github.com/joinmouse/EasySwapBase/logger"
-	"github.com/joinmouse/EasySwapBaseores/gdb"
+	"github.com/joinmouse/EasySwapBase/stores/gdb"
 )
 
 type Config struct {
